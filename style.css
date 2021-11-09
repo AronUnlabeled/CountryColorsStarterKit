@@ -19,14 +19,24 @@ div{
     height: 700px;
 }
 
-#Color1{
+.red{
     background-color: red;
 }
 
-#Color2{
+.white{
     background-color: white;
 }
 
-#Color3{
+.blue{
     background-color:blue;
+}
+
+.green{
+    background-color: green;
+}
+.yellow{
+    background-color: yellow;
+}
+.Black{
+    background-color: black;
 }
